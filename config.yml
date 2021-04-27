@@ -1,0 +1,9 @@
+# 路由器密码
+password: "your_wifi_password"
+# 主路由器的 MAC 地址
+master_deviceid: "8B:14:B6:75:64:93"
+# 子 Mesh 的 MAC 地址
+slaves_deviceid:
+  - "9B:47:B6:82:73:BA"
+# 企业微信群机器人秘钥（可选，留空则不发消息）
+robot_key: "8b2938449-e356-2394-oc71-ocw9w4da3a87"
