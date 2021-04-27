@@ -24,7 +24,7 @@ python3 helper.py
 
 ## 调整定时重启和定时调整信号强度的时间
 
-自行 [helper.py](https://github.com/wzpan/MiMeshHelper/blob/main/helper.py#L107) 中的代码调整规则即可。小助手使用 apscheduler 来实现定时任务，详见 [apscheduler.triggers.cron](https://apscheduler.readthedocs.io/en/stable/modules/triggers/cron.html) 。
+自行调整 [helper.py](https://github.com/wzpan/MiMeshHelper/blob/main/helper.py#L107) 中的代码即可。小助手使用 apscheduler 来实现定时任务，详见 [apscheduler.triggers.cron](https://apscheduler.readthedocs.io/en/stable/modules/triggers/cron.html) 。
 
 ## 感谢
 
